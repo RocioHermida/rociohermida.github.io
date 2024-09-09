@@ -12,7 +12,7 @@ html{
 h1{
 text-align: center;;
 font-size: 250% ;
-padding: 40px;
+padding: 15%;
 margin: 0 10%;
 color: white;
 }
@@ -44,7 +44,7 @@ color: white;
 h3{
     border: black 1px;
     color: white;
-    background-color: rgb(235, 45, 77);
+    background-color: rgb(73, 45, 235);
     border-radius: 8px;
     padding: 5px;
     clear: both;
@@ -55,9 +55,10 @@ h3{
 
 
 .section {
-    margin: 15px; 
-    padding: 5px; 
+    margin: 10%; 
+    padding: 5%; 
     color: antiquewhite;
+    text-align: center;
 }
 
 p{
